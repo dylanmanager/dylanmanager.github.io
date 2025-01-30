@@ -14,5 +14,6 @@ header h1 {
 }
 header h2 {
     font-size: 130%;
-    color: #;
+    color: #800000;
+    text-indent: 30px;
 }
