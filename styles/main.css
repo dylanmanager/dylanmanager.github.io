@@ -13,6 +13,7 @@ body {
     box-shadow: 5px 5px 0 0;
     background-image: url(../images/CustomNavigationLogo.png);
     background-position: right;
+    background-position: right 500px;
     background-repeat: repeat-y;
     background-attachment: fixed;
 }
