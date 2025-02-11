@@ -7,11 +7,10 @@ body {
     width: 1000px;
     background-color: white;
     margin: 15px auto;
+    padding: 1em;
     border: 1px solid black;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
-    padding: 1em;
-
 }
 a:hover, a:focus {
     font-style: italic;
