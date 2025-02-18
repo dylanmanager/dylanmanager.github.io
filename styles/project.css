@@ -60,6 +60,7 @@ article p::first-letter {
 }
 aside {
     width: 20%;
+    border-top: 1em;
     padding: 2em;
     float: right;
     background-color: #ffebc6;
