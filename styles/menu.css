@@ -25,6 +25,7 @@
 article {
     clear: both;
     padding-top: 2px;
+    padding: 2em 1em 2em;
 }
 aside ol {
     list-style-type: upper-roman;
