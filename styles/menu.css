@@ -32,3 +32,6 @@ aside ol {
 aside ul {
     list-style-type: square;
 }
+aside p {
+    padding-bottom: 1em;
+}
