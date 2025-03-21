@@ -1,6 +1,6 @@
 #nav_menu ul { 
     list-style-type: none;
-    padding: 1em 0;
+    padding-bottom: 2px;
     text-align: center;
 }
 #nav_menu ul li { 
