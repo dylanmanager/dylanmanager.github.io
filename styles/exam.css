@@ -14,7 +14,6 @@
     color: white;
     font-weight: bold;
     border-right: 2px solid white;
-    padding-bottom: 3em;
 }
 #nav_menu ul li a.lastitem {
     border-right: none;
@@ -69,6 +68,7 @@ article {
     column-gap: 2em;
     margin-left: 2em;
     border-top: solid blue;
+    padding-top: 3em;
 }
 a:focus, a:hover {
     font-style: italic;
