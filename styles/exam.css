@@ -2,7 +2,7 @@ body {
     background-image: url("../images/shsu.png135435.png");
     background-size: 50%;
     background-repeat: repeat-y;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: right;
     width: 95%;
     margin: 15px auto;
