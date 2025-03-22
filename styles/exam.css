@@ -1,6 +1,6 @@
 body {
     background-image: url("../images/shsu.png135435.png");
-    background-image: 300%;
+    background-size: 300%;
     background-repeat: repeat-y;
     background-attachment: fixed;
     background-position: right;
