@@ -89,5 +89,6 @@ a:focus, a:hover {
     border-style: dotted;
 }
 footer {
+    clear: both;
     text-align: center;
 }
