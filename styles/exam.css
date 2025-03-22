@@ -22,6 +22,13 @@
 #nav_menu ul li a.current {
     color: yellow;
 }
+aside {
+    width: 20%;
+    float: right;
+    background-color: lightskyblue;
+    border: solid dodgerblue;
+    position: relative;
+}
 aside ol {
     list-style-type: upper-roman;
 }
@@ -84,11 +91,4 @@ a:focus, a:hover {
 footer {
     clear: both;
     border-top: 2px solid maroon;
-}
-aside {
-    width: 20%;
-    float: right;
-    background-color: lightskyblue;
-    border: solid dodgerblue;
-    position: relative;
 }
