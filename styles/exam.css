@@ -1,5 +1,6 @@
 #nav_menu ul {
     list-style-type: none;
+    padding-bottom: 3em;
 }
 #nav_menu ul li {
     float: left;
