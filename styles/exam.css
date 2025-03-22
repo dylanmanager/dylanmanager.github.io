@@ -32,6 +32,7 @@ body {
     background-repeat: repeat-y;
     background-attachment: scroll;
     background-position: right;
+    background-size: 100;
 }
 article image {
     float: left;
