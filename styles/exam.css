@@ -55,8 +55,8 @@ article image {
     float: left;
     margin-right: 1em;
     margin-bottom: 1em;
-    height: 25;
-    width: 50;
+    height: 25px;
+    width: 50px;
 }
 article h2 {
     color: blue;
