@@ -68,8 +68,7 @@ article p::first-letter {
     font-style: italic;
 }
 article p {
-    flex-wrap: wrap;
-    overflow: auto;
+
 }
 article {
     clear: both;
