@@ -3,7 +3,7 @@ body {
     background-image: 300%;
     background-repeat: repeat-y;
     background-attachment: fixed;
-    background-position: right;
+    background-position: right fixed;
     width: 95%;
     margin: 15px auto;
 }
