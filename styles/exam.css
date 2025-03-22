@@ -69,7 +69,7 @@ article {
     width: 75%;
     float: left;
     column-count: 3;
-    column-rule: 6px dashed blue;
+    column-rule: 4px dashed blue;
     column-gap: 2em;
     margin-left: 2em;
     border-top: solid blue;
