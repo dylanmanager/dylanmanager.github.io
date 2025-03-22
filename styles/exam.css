@@ -31,8 +31,10 @@ body {
     background-image: url("../images/shsu.png135435.png");
     background-image: 300%;
     background-repeat: repeat-y;
-    background-attachment: scroll;
+    background-image: fixed;
     background-position: right;
+    width: 95%;
+    margin: 15px auto;
 }
 article h1 {
     color: blue;
