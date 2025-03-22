@@ -21,11 +21,6 @@
 #nav_menu ul li a.current {
     color: yellow;
 }
-article p::first-letter {
-    font-size: 3em;
-    font-weight: bold;
-    font-style: italic;
-}
 aside ol {
     list-style-type: upper-roman;
 }
@@ -44,6 +39,11 @@ article image {
     margin-bottom: 1em;
     height: 50;
     width: 100;
+}
+article p::first-letter {
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
 }
 article {
     clear: both;
