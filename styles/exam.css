@@ -51,7 +51,7 @@ article image {
     margin-bottom: 1em;
 }
 article {
-    clear: left;
+    clear: both;
     width: 70%;
     float: left;
     column-count: 3;
