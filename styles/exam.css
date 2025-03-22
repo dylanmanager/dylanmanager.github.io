@@ -54,6 +54,9 @@ article p::first-letter {
     font-weight: bold;
     font-style: italic;
 }
+article p {
+    flex-wrap: wrap;
+}
 article {
     clear: both;
     width: 70%;
