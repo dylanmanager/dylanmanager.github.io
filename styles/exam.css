@@ -51,6 +51,7 @@ aside ol ul ol {
 article h1 {
     color: blue;
     font-weight: bold;
+    margin-top: -20%;
 }
 article img {
     float: left;
