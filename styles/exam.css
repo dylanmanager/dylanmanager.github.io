@@ -60,7 +60,6 @@ article p::first-letter {
 }
 article p {
     flex-wrap: wrap;
-    padding-top: 3em;
 }
 article {
     clear: both;
@@ -71,6 +70,7 @@ article {
     column-gap: 2em;
     margin-left: 2em;
     border-top: solid blue;
+    padding-top: 3em;
 }
 a:focus, a:hover {
     font-style: italic;
