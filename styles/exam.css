@@ -62,6 +62,7 @@ article p::first-letter {
 }
 article p {
     flex-wrap: wrap;
+    overflow: auto;
 }
 article {
     clear: both;
