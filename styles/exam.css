@@ -32,8 +32,6 @@ body {
     background-repeat: repeat-y;
     background-attachment: scroll;
     background-position: right;
-    height: 200;
-    width: 1000;
 }
 article h1 {
     color: blue;
