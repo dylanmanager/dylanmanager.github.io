@@ -84,7 +84,7 @@ article {
 }
 a:focus, a:hover {
     font-style: italic;
-    color:orangered;
+    color: orangered;
     border: 3px blue;
     border-style: dotted;
 }
