@@ -35,7 +35,7 @@ body {
     background-image: url("../images/shsu.png135435.png");
     background-image: 300%;
     background-repeat: repeat-y;
-    background-image: fixed;
+    background-attachment: fixed;
     background-position: right;
     width: 95%;
     margin: 15px auto;
@@ -89,4 +89,5 @@ aside {
     float: right;
     background-color: lightskyblue;
     border: solid dodgerblue;
+    position: relative;
 }
