@@ -41,8 +41,13 @@ article image {
     height: 50;
     width: 100;
 }
+article h1 {
+    color: blue;
+    font-weight: bold;
+}
 article h2 {
     color: blue;
+    font-weight: bold;
 }
 article p::first-letter {
     font-size: 3em;
