@@ -29,6 +29,7 @@ aside ul {
 }
 body {
     background-image: url("../images/shsu.png135435.png");
+    background-image: 300%;
     background-repeat: repeat-y;
     background-attachment: scroll;
     background-position: right;
