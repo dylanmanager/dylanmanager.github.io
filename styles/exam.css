@@ -81,6 +81,7 @@ article {
     margin-left: 2em;
     border-top: solid blue;
     padding-top: 3em;
+    border-bottom: 4px solid blue;
 }
 a:focus, a:hover {
     font-style: italic;
@@ -90,5 +91,4 @@ a:focus, a:hover {
 }
 footer {
     text-align: center;
-    border-top: 4px solid blue;
 }
