@@ -58,17 +58,17 @@ article p::first-letter {
 }
 article p {
     flex-wrap: wrap;
+    padding-top: 3em;
 }
 article {
     clear: both;
     width: 75%;
     float: left;
     column-count: 3;
-    column-rule: 2px dotted maroon;
+    column-rule: solid 2px dotted blue;
     column-gap: 2em;
     margin-left: 2em;
     border-top: solid blue;
-    padding-top: 3em;
 }
 a:focus, a:hover {
     font-style: italic;
