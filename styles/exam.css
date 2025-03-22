@@ -65,7 +65,7 @@ article {
     width: 75%;
     float: left;
     column-count: 3;
-    column-rule: 2px bold dotted blue;
+    column-rule: 2px dotted blue;
     column-gap: 2em;
     margin-left: 2em;
     border-top: solid blue;
