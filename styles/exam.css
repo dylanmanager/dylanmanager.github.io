@@ -43,7 +43,7 @@ aside ol {
     list-style-type: upper-roman;
 }
 aside ul {
-    list-style-type: none;
+    list-style-type: disc;
 }
 aside ol ul ol {
     list-style-type: lower-alpha;
