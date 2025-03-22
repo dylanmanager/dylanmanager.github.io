@@ -62,7 +62,7 @@ article p {
 }
 article {
     clear: both;
-    width: 70%;
+    width: 75%;
     float: left;
     column-count: 3;
     column-rule: 2px dotted maroon;
