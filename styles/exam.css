@@ -26,7 +26,7 @@ aside ol {
     list-style-type: upper-roman;
 }
 aside ul {
-    list-style-type: decimal;
+    list-style-type: none;
 }
 aside ol ul ol {
     list-style-type: lower-alpha;
