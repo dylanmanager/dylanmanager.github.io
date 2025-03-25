@@ -160,7 +160,12 @@ html, body {
     article p {
         font-size: .8em;
     }
-    
+    footer {
+        border-top: 1px solid #f46b45;
+        text-align: center;
+        font-size: .6em;
+    }
+
     
 
     
