@@ -1,35 +1,35 @@
 html, body {
-    margin: 1em;
-    height: 100%;
-    font-size: 100%;
+        margin: 1em;
+        height: 100%;
+        font-size: 100%;
     }
     * {
-    font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
     }
     /*-----------------------------------------------------------*/
     table.first {
-    border-collapse: separate;
-    border: 2px solid black;
+        border-collapse: separate;
+        border: 2px solid black;
     }
     table.first th, table.first td {
-    border: 2px solid blue;
+        border: 2px solid blue;
     }
     table.first tr:nth-child(odd) {
-    background-color: lightblue;
+        background-color: lightblue;
     }
     /*-----------------------------------------------------------*/
     table.second {
-    border-collapse: collapse;
-    border: 2px solid purple;
-    caption-side: bottom;
+        border-collapse: collapse;
+        border: 2px solid purple;
+        caption-side: bottom;
     }
     table.second th {
-    background-color: salmon;
+        background-color: salmon;
     }
     table.second th, table.second td {
-    padding: 0.7em;
-    vertical-align: middle;
-    border: 2px solid purple;
+        padding: 0.7em;
+        vertical-align: middle;
+        border: 2px solid purple;
     }
     table.second thead tr:first-child{
     border-bottom: 2px solid purple;
@@ -39,7 +39,11 @@ html, body {
         background-color: lightgreen;
         border-top: red;
         border-bottom: red;
-        }
+    }
+    table.third th, table.third td {
+        padding: 0.7em;
+        vertical-align: middle;
+    }
 @media only screen and (max-width: 425px) {
     th, td {
         display: block;
