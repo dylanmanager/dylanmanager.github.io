@@ -46,7 +46,6 @@ html, body {
     table.second th, table.second td {
         padding: 0.7em;
         vertical-align: middle;
-        border-bottom: 2px solid red;
     }
     table.third thead tr:last-child{
         border-bottom: 2px solid red;
