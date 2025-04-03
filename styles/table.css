@@ -37,13 +37,15 @@ html, body {
     /*-----------------------------------------------------------*/
     table.third {
         border-collapse: collapse;
-        padding: 0.7em;
-        vertical-align: middle;
     }
     table.third thead {
         background-color: lightgreen;
         border-top: 2px solid red;
         border-bottom: 2px solid red;
+    }
+    table.third th, table.third td {
+        padding: 0.7em;
+        vertical-align: middle;
     }
     table.third tbody tr:last-child{
         border-bottom: 2px solid red;
