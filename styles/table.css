@@ -44,12 +44,6 @@ html, body {
         border-top: 2px solid red;
         border-bottom: 2px solid red;
     }
-    table.third th {
-        border-collapse: collapse;
-        background-color: lightgreen;
-        border-top: 2px solid red;
-        border-bottom: 2px solid red;
-    }
     table.third th, table.third td {
         padding: 0.7em;
         vertical-align: middle;
