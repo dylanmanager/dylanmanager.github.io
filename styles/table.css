@@ -36,6 +36,7 @@ html, body {
     }
     /*-----------------------------------------------------------*/
     table.third th {
+        border-collapse: collapse;
         background-color: lightgreen;
         border-top: 2px solid red;
         border-bottom: 2px solid red;
