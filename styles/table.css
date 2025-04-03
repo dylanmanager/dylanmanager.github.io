@@ -37,8 +37,8 @@ html, body {
     /*-----------------------------------------------------------*/
     table.third th {
         background-color: lightgreen;
-        border-top: red;
-        border-bottom: red;
+        border-top: 2px solid red;
+        border-bottom: 2px solid red;
     }
     table.third th, table.third td {
         padding: 0.7em;
