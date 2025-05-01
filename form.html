@@ -46,28 +46,27 @@
                 autocomplete="on"><br>
         </fieldset>
         <fieldset>
-            <legend>Membership Informatiom</legend>
+            <legend>Membership Information</legend>
             <label for="membership_type">Membership Type:</label>
-            <select id="style_and_size">
-                <optgroup label="Junior">
-                </optgroup>
-                <optgroup label="Regular">
-                </optgroup>
-                <optgroup label="Charter">
-                </optgroup>
-            </select>
+            <select name="membership_type" id="membership_type">
+            <option value="j">Junior</option>
+            <option value="r">Regular</option>
+            <option value="c">Charter</option>
+            </select><br>
             <label for="starting_date">Starting Date:</label>
-            <input type="text" name="state" id="state" required
-                maxlength="2"
-                placeholder="2-character code"
-                autocomplete="on"><br>
-            <label for="tickets_for_guests">Tickets For Guests:</label>
-            <input type="text" name="zip" id="zip" required
-                placeholder="5 or 9 digits"
-                pattern="^\d{5}(-\d{4})?$"
-                title="Either 5 or 9 digits"
-                autocomplete="on"><br>
-        <fieldset>
+            <input type="date" name="starting_date" id="starting_date"
+            required><br>
+            <label for="tickets">Tickets for Guests:</label>
+            <input type="number" name="tickets" id="tickets"
+            value="2" min="1" max="4"
+            placeholder="from 1 to 4"><br>
+        </fieldset>
+        <fieldset id="buttons">
+            <legend>Submit Your Membership</legend>
+            <label>&nbsp;</label>
+            <input type="submit" id="submit" value="Submit">
+            <input type="reset" id="reset" value="Reset Fields"><br>
+        </fieldset>
             <legend>How Did You Hear About Us?</legend>
             <label for="first_name">First Name:</label>
             <input type="text" name="first_name" id="first_name"
